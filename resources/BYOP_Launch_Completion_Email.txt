@@ -1,0 +1,28 @@
+To: pos.partner.launch@shopify.com
+Subject: BYOP payout request | [Merchant / myshopify.com URL] | [Partner]
+
+Hi team,
+
+We have completed the agreed Shopify POS launch / migration for the merchant below and confirmed with them that they are live. Please initiate the BYOP payout process.
+
+Merchant business name: [Business name]
+Merchant myshopify.com URL: [store.myshopify.com]
+Merchant Shop ID: [Shop ID]
+Merchant contact name and email: [Name / email]
+
+Partner business name: [Partner business]
+Partner organization ID: [Partner ID]
+Partner contact name and email: [Name / email]
+
+Launch completion date: [YYYY-MM-DD]
+Services completed: [Brief summary of the agreed launch / migration work]
+BYOP merchant form submission reference or date: [If available]
+
+Please confirm receipt and let us know if you need any further information to process the payout.
+
+Thanks,
+[Name]
+[Partner business]
+
+---
+Before sending: verify the Shop ID, myshopify.com URL, and partner organization ID are accurate and consistent with the merchant's submission. Send only after launch completion. Form submission alone does not trigger payout. Payout remains subject to eligibility confirmation and any missing-information checks.
